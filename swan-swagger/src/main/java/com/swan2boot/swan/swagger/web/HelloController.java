@@ -1,4 +1,4 @@
-package com.didispace.web;
+package com.swan2boot.swan.swagger.web;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

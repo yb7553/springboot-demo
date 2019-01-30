@@ -1,6 +1,6 @@
-package com.didispace.web;
+package com.swan2boot.swan.swagger.web;
 
-import com.didispace.domain.User;
+import com.swan2boot.swan.swagger.domain.User;
 
 import java.util.*;
 

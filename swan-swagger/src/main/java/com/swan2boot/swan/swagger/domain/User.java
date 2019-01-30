@@ -1,4 +1,4 @@
-package com.didispace.domain;
+package com.swan2boot.swan.swagger.domain;
 
 
 

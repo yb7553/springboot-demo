@@ -1,4 +1,4 @@
-package com.didispace;
+package com.swan2boot.swan.swagger;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
