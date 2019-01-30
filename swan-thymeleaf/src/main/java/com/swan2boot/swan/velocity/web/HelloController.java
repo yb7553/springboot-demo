@@ -1,4 +1,4 @@
-package com.didispace.web;
+package com.swan2boot.swan.velocity.web;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
