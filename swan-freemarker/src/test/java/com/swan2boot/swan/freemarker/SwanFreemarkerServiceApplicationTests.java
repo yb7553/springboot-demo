@@ -1,10 +1,9 @@
-package com.didispace;
+package com.swan2boot.swan.freemarker;
 
-import com.didispace.web.HelloController;
+import com.swan2boot.swan.freemarker.web.HelloController;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.http.MediaType;
 import org.springframework.mock.web.MockServletContext;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
@@ -26,9 +25,8 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
  *
  */
 @RunWith(SpringJUnit4ClassRunner.class)
-@SpringApplicationConfiguration(classes = MockServletContext.class)
 @WebAppConfiguration
-public class ApplicationTests {
+public class SwanFreemarkerServiceApplicationTests {
 
 	private MockMvc mvc;
 
